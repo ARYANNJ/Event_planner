@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(#333333,#76CCb1);
+    justify-content: center;
+}
+.todo_list{
+    margin-top: 2vh;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+}
